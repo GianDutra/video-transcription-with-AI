@@ -56,7 +56,7 @@ $ npm run dev
 # Run the node server in developer mode
 $ npm run server
 
-# The app will open by default on port: 3000 - go to http://localhost:5173/
+# The app will open by default on port: 5173 - go to http://localhost:5173/
 
 ```
 #### Note: In the transcribe.js file, it is possible to change the language parameter, which defaults to Portuguese.
