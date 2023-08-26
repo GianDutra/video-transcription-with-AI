@@ -60,6 +60,7 @@ $ npm run server
 
 ```
 #### Note: In the transcribe.js file, it is possible to change the language parameter, which defaults to Portuguese.
+### You can also change "Xenova/whisper-small" to a more accurate one if you have a better computer.
 ---
 
 
