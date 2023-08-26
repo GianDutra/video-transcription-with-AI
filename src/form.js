@@ -18,7 +18,7 @@ form.addEventListener("submit", async e => {
         await loadVideo(url);
 
         loadingMessage("Conectando com o backend");
-        await axios.get('http://localhost:3333/audio?v=' + getVideoId(url));
+        await axios.get('https://video-transcription-ai.onrender.com/audio?v=' + getVideoId(url));
 
         const data = await transcribeAudio();
         renderText(data);
