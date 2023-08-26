@@ -59,8 +59,9 @@ $ npm run server
 # The app will open by default on port: 5173 - go to http://localhost:5173/
 
 ```
-#### Note: In the transcribe.js file, it is possible to change the language parameter, which defaults to Portuguese.
-### You can also change "Xenova/whisper-small" to a more accurate one if you have a better computer.
+#### Note: In the transcribe.js file, it is possible to change the language parameter, which defaults to Portuguese. 
+#### Note2: You can also change "Xenova/whisper-small" to a more accurate one if you have a better computer (for instance, "Xenova/whisper-medium" or "Xenova/whisper-large").
+#### Note3: Deploy deleted due to slow online server. If you want to use the app, use your own computer so the video doesn't take so long to load.
 ---
 
 
