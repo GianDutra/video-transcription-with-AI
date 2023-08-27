@@ -1,4 +1,4 @@
-# video-transcription-with-AI
+# video-transcription-with-AI ([Youtube Video Tutorial](https://www.youtube.com/watch?v=THGq3y4ec6k&t=47s))
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/video-transcription-with-AI?color=%2304D361">
