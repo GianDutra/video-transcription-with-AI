@@ -65,7 +65,7 @@ $ npm run server
 ---
 
 
-## 👨‍💼 Autor
+## 👨‍💼 Author
 
 <table>
   <tr>
